@@ -68,7 +68,9 @@ public void setItemId(String itemId) {
 }
 
 
-
+public void disply() {
+	System.out.println("hi");
+}
 
 
 public double getTax() {
